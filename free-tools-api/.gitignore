@@ -1,0 +1,7 @@
+.env
+venv/
+app.log
+app/__pycache__/
+app/routes/__pycache__/
+app/services/__pycache__/
+.idea/
